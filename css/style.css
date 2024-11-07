@@ -1,0 +1,106 @@
+.bg-image{
+    background-image: url('../images/baner-dec-left.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bg-image-1 {
+    background-image: url('../images/portfolio-left-dec.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+}
+
+.bg-image-2 {
+    background-image: url('../images/contact-form-bg.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #cccccc;
+
+}
+.bg-image-3 {
+    background-image: url('../images/second-plan-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-image-4 {
+    background-image: url('../images/subscribe-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.bg-light-blue {
+    background-color:#06A3E8 ;
+}
+.bg-pink {
+    background-color: #FF7D63;
+}
+.pricing-card {
+    border: 2px solid #FF7D63;
+    transition: all 0.3s ease;
+}
+
+
+.bg-shadow-danger {
+    color: rgb(255, 190, 190);
+}
+.bg-shadow-dark {
+    background-color: rgba(0, 0, 0, .5);
+}
+.bg-shadow-info {
+    background-color: rgba(17, 126, 214, 0.5);
+}
+.bg-shadow {
+    color: rgba(0, 0, 0, .5);
+}
+.box {
+    background-color: #f9f9f9;
+    
+    padding: 20px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+.box:hover {
+    transform: translateY(-10px);
+    cursor: pointer;
+    background-color: #e74c3c;
+    color: white;
+}
+.text-light-blue {
+    color: #06A3E8;
+}
+.text-pink {
+   color:#FF7D63 ; 
+}
+.square {
+    background: white;
+    color: #ff6767;
+    cursor: pointer;
+    transition: .4s all;
+}
+.square:hover {
+    background-color: #ff6767;
+    color: white;
+    box-shadow: 20px 20px 50px rgb(231, 172, 172);
+    margin-top: 7px;
+}
+.btn-square {
+    color: white;
+    background: #ff7777;
+   
+}
+
+.square:hover .btn-square {
+    background: white;
+    color: #ff6767;
+}
